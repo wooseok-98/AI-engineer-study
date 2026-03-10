@@ -1,5 +1,5 @@
 ## 💻 학습(Supervised Learning) VS 비지도 학습(Unsupervised Learning)
-
+---
 ### 지도 학습 (Supervised Learning)
 - **정답(label)** 이 포함된 입력-출력 쌍 **(x, y)** 데이터를 사용하여 학습
 - 입력 변수 **(x)** 와 출력 변수 **(y)** 간의 관계 학습 → 새로운 입력에 대한 출력 **예측**
