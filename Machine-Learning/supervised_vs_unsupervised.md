@@ -1,6 +1,6 @@
-## 💻 학습(Supervised Learning) VS 비지도 학습(Unsupervised Learning)
+# 💻 학습(Supervised Learning) VS 비지도 학습(Unsupervised Learning)
 ---
-### 지도 학습 (Supervised Learning)
+## 지도 학습 (Supervised Learning)
 - **정답(label)** 이 포함된 입력-출력 쌍 **(x, y)** 데이터를 사용하여 학습
 - 입력 변수 **(x)** 와 출력 변수 **(y)** 간의 관계 학습 → 새로운 입력에 대한 출력 **예측**
 - 유형:
@@ -17,7 +17,7 @@
     - Neural Network
     
 ---
-### 비지도 학습 (Unsupervised Learning)
+## 비지도 학습 (Unsupervised Learning)
 - **정답(Label)이 없는 데이터** 사용하여 모델 학습
 - 데이터의 **구조나 패턴**을 찾거나, **유사한 그룹으로 묶는**데 사용
 - 유형:
@@ -31,7 +31,7 @@
     - Hierarchical Clustering
 ---
     
-### 요약 (Summary)
+## 요약 (Summary)
 | 구분 | 지도 학습 | 비지도 학습 |
 |---|---|---|
 | 데이터 | 정답(label) 있음 | 정답(label) 없음 |
@@ -40,7 +40,7 @@
 | 예시 | 스팸 메일 분류, 주택 가격 예측 | 고객 세분화, 데이터 시각화 |
 ---
 
-## 📝 예상 질문
+# 📝 예상 질문
 - 지도학습과 비지도학습의 차이는 무엇인가요?
 - 분류와 회귀의 차이는 무엇인가요?
 - 비지도학습의 대표적인 활용 예시는 무엇인가요?
