@@ -31,7 +31,7 @@ Bias와 Variance는 서로 **Tradeoff 관계**에 있다.
 ![Alt text](https://images.velog.io/images/cleansky/post/ae6b13fb-03e4-41ea-abf3-ddc77c328498/image.png)
 
 ---
-## 💡 요약
+## 💡 핵심 정리
 | 특징 | Bias | Variance | 상태 |
 |---|---|---|---|
 | 모델이 너무 단순 | 높음 | 낮음 | Underfitting |
